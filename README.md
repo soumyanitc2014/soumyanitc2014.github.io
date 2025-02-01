@@ -3,7 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
 ## About Me
-I'm a passionate developer from [Your Location]. I love coding, learning new technologies, and contributing to open-source projects.
+I did PostDoctoral research at HyConSys Lab. in the Department of Computer Science, University of Colorado Boulder from 2021 to 2023.
+
+I received PhD degree from Department of Computer Science Ludwig Maximilian University of Munich; M.Tech. degree (Electrical Engineering) from Indian Institute of Technology Roorkee, India; and B.Tech. degree (Electrical Engineering) from Indian Institute of Technology (ISM) Dhanbad, India. During masters, I was at Technical University of Munich for 6 months, supported by DAAD scholarship, to work on masters thesis. My current research focuses on control under data-rate constraints.
 
 - 🔭 I’m currently working on [Your Project]
 - 🌱 I’m currently learning [New Technology/Framework]
